@@ -1,0 +1,23 @@
+{
+  "name": "spawn-dev-vault",
+  "version": "1.0.0",
+  "description": "Spawn an dev instance of Hashicorps Vault",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard | snazzy"
+  },
+  "keywords": [
+    "hashicorp",
+    "vault"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^1.8.1",
+    "unzip": "^0.1.11"
+  },
+  "devDependencies": {
+    "snazzy": "^3.0.0",
+    "standard": "^6.0.8"
+  }
+}
