@@ -1,6 +1,6 @@
 {
   "name": "spawn-dev-vault",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Spawn an dev instance of Hashicorps Vault",
   "main": "lib/index.js",
   "scripts": {
