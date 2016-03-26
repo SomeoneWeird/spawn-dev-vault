@@ -13,7 +13,7 @@
   "author": "Adam Brady <adam@boxxen.org>",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^1.8.1",
+    "superagent": "^1.8.3",
     "unzip": "^0.1.11"
   },
   "devDependencies": {
